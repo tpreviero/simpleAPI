@@ -27,6 +27,8 @@ pip install -r requirements.txt
  ./manage.py runserver
  ```
 Abrir a url: http://127.0.0.1:8000/employee/
+ou
+http://127.0.0.1:8000/employee/<id>/
 
 ## CURL 
 
