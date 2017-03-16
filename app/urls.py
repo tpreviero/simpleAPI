@@ -22,5 +22,5 @@ router = DefaultRouter()
 router.register('employee', views.EmployeeViewSet)
 
 urlpatterns = [
-    url(r'', include(router.urls))
+    url(r'^', include(router.urls))
 ]
