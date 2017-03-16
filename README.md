@@ -28,9 +28,9 @@ pip install -r requirements.txt
  ```
 Abrir a url: http://127.0.0.1:8000/employee/
 
-##CURL 
+## CURL 
 
-###GET
+### GET
  ```console
  curl -H "Content-Type: application/javascript" http://localhost:8000/employee/
   ```
